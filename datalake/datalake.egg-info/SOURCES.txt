@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+datalake/__init__.py
+datalake/assets.py
+datalake.egg-info/PKG-INFO
+datalake.egg-info/SOURCES.txt
+datalake.egg-info/dependency_links.txt
+datalake.egg-info/requires.txt
+datalake.egg-info/top_level.txt

@@ -1,0 +1,7 @@
+[32m2023-05-12 17:53:29 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - d08e6adb-8324-4fae-aa83-8a951f9b39c6 - 17741 - LOGS_CAPTURED - Started capturing logs in process (pid: 17741).
+[32m2023-05-12 17:53:29 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - d08e6adb-8324-4fae-aa83-8a951f9b39c6 - 17741 - population - STEP_START - Started execution of step "population".
+[32m2023-05-12 17:53:29 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - d08e6adb-8324-4fae-aa83-8a951f9b39c6 - 17741 - population - STEP_OUTPUT - Yielded output "result" of type "SQL". (Type check passed).
+[32m2023-05-12 17:53:29 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - d08e6adb-8324-4fae-aa83-8a951f9b39c6 - population - Writing file at: /workspace/dagster-poor-man-datalake/datalake/tmpw62exhor/storage/population
+[32m2023-05-12 17:53:29 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - d08e6adb-8324-4fae-aa83-8a951f9b39c6 - 17741 - population - ASSET_MATERIALIZATION - Materialized value population.
+[32m2023-05-12 17:53:29 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - d08e6adb-8324-4fae-aa83-8a951f9b39c6 - 17741 - population - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
+[32m2023-05-12 17:53:29 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - d08e6adb-8324-4fae-aa83-8a951f9b39c6 - 17741 - population - STEP_SUCCESS - Finished execution of step "population" in 313ms.
